@@ -1,24 +1,24 @@
-# How to Push This to GitHub
+# How to Push to GitHub
 
-## Option 1: Create New Repo via GitHub Website (Recommended)
+## Quick Setup
 
 ### Step 1: Create the Repository on GitHub
 
 1. Go to https://github.com/new
 2. Fill in:
-   - **Repository name**: `miner-flows-datasets` (or whatever you prefer)
-   - **Description**: "Miner Flows & Datasets UI Demo - Specification for backend development"
-   - **Visibility**: Choose Public or Private
+   - **Repository name**: `tao-galaxy-institutional`
+   - **Description**: "TAO Galaxy Institutional - Professional analytics platform for institutional investors in the Bittensor ecosystem"
+   - **Visibility**: Choose Public or Private (recommend Private for institutional product)
    - ⚠️ **DO NOT** initialize with README, .gitignore, or license (we already have these)
 3. Click "Create repository"
 
 ### Step 2: Initialize Git and Push
 
-From the `miner-flows-datasets` directory, run:
+From this directory, run:
 
 ```bash
-# Navigate to the directory (if not already there)
-cd ~/Bureau/tao-galaxy-frontend/miner-flows-datasets
+# Navigate to the directory (if not already here)
+cd ~/Bureau/tao-galaxy-frontend/tao-galaxy-institutional
 
 # Initialize git
 git init
@@ -27,10 +27,10 @@ git init
 git add .
 
 # Create initial commit
-git commit -m "Initial commit: Miner Flows & Datasets UI demo with mock data"
+git commit -m "Initial commit: TAO Galaxy Institutional platform with Miner Flows and Datasets"
 
-# Add your GitHub repo as remote (replace with YOUR username/repo)
-git remote add origin https://github.com/YOUR-USERNAME/miner-flows-datasets.git
+# Add your GitHub repo as remote (replace YOUR-USERNAME)
+git remote add origin https://github.com/YOUR-USERNAME/tao-galaxy-institutional.git
 
 # Push to GitHub
 git branch -M main
@@ -41,24 +41,22 @@ git push -u origin main
 
 ---
 
-## Option 2: Create Repo via GitHub CLI (Faster)
+## Alternative: Using GitHub CLI
 
 If you have GitHub CLI installed:
 
 ```bash
-# Navigate to the directory
-cd ~/Bureau/tao-galaxy-frontend/miner-flows-datasets
+cd ~/Bureau/tao-galaxy-frontend/tao-galaxy-institutional
 
-# Initialize git
 git init
 git add .
-git commit -m "Initial commit: Miner Flows & Datasets UI demo with mock data"
+git commit -m "Initial commit: TAO Galaxy Institutional platform"
 
-# Create repo and push (GitHub CLI does it all)
-gh repo create miner-flows-datasets --public --source=. --remote=origin --push
+# Create private repo and push
+gh repo create tao-galaxy-institutional --private --source=. --remote=origin --push
 ```
 
-Change `--public` to `--private` if you want a private repo.
+Change `--private` to `--public` if you want a public repo.
 
 ---
 
@@ -66,57 +64,138 @@ Change `--public` to `--private` if you want a private repo.
 
 Your repo will be at:
 ```
-https://github.com/YOUR-USERNAME/miner-flows-datasets
+https://github.com/YOUR-USERNAME/tao-galaxy-institutional
 ```
 
-Share this link with your backend developer!
+### Repository Settings
+
+Consider configuring:
+
+1. **About Section**:
+   - Description: "Professional analytics platform for institutional investors in Bittensor"
+   - Website: (your domain if available)
+   - Topics: `bittensor`, `institutional-analytics`, `miner-flows`, `cryptocurrency`, `data-visualization`, `react`, `typescript`
+
+2. **Visibility**:
+   - Keep private during development
+   - Make public when ready for beta users
+
+3. **Branch Protection**:
+   - Protect `main` branch
+   - Require pull request reviews
+   - Enable status checks
+
+4. **Collaborators**:
+   - Add your backend developers
+   - Add your team members
 
 ---
 
 ## What Gets Pushed
 
-✅ **Included in the repo**:
-- All frontend code (React, TypeScript, components)
-- Backend reference scripts (miner_flows.py)
-- Complete documentation
-- Real subnet data (93 subnets with IDs, names, logos)
+### ✅ Included
+- Complete frontend (React app)
+- Backend reference scripts
+- All documentation
+- 93 real subnets with logos
 - Build configuration
-- README and setup guides
+- Professional README
+- .gitignore
 
-❌ **Not included** (via .gitignore):
-- node_modules/ (dependencies)
-- .env files (secrets)
-- Build outputs
-- Data CSV files
-- Logs
-
----
-
-## Repository Description Suggestion
-
-When someone visits your GitHub repo, they'll see this:
-
-**Description**:
-> Miner Flows & Datasets UI Demo - Complete frontend specification for backend API development. Features mock data generators showing exact data structures needed.
-
-**Topics/Tags** (add these on GitHub):
-- bittensor
-- taostats
-- data-visualization
-- ui-demo
-- api-specification
-- react
-- typescript
+### ❌ Excluded (via .gitignore)
+- node_modules/
+- .env files
+- Build outputs (dist/)
+- Python cache
+- IDE configs
+- Log files
 
 ---
 
-## README Preview
+## Repository Tags/Topics
 
-The repo includes a comprehensive README.md that explains:
-- What the project is
-- How to run it
-- What data is real vs mock
-- How backend devs should use it
-- Complete documentation links
+Add these topics on GitHub to improve discoverability:
 
-Your backend developer will see clear instructions when they visit the repo!
+- `bittensor`
+- `institutional-analytics`
+- `miner-flows`
+- `blockchain-analytics`
+- `data-visualization`
+- `professional-trading`
+- `react`
+- `typescript`
+- `tailwindcss`
+- `recharts`
+
+---
+
+## Sharing with Team
+
+### For Backend Developers
+
+Send them:
+```
+Repository: https://github.com/YOUR-USERNAME/tao-galaxy-institutional
+
+Key Files:
+1. README.md - Product overview
+2. docs/DATA_REQUIREMENTS.md - API specifications
+3. backend/README_MINER_FLOWS.md - Miner flows logic
+
+To run:
+cd frontend
+npm install
+npm run dev
+```
+
+### For Stakeholders
+
+Share the README which includes:
+- Product vision
+- Core features
+- Development roadmap
+- Tech stack
+
+---
+
+## Next Steps After Pushing
+
+1. ✅ **Configure repo settings** (visibility, branch protection)
+2. ✅ **Add collaborators** (backend devs, team members)
+3. ✅ **Create issues** for backend API development tasks
+4. ⏳ **Set up CI/CD** (GitHub Actions for testing/deployment)
+5. ⏳ **Create project board** to track development
+6. ⏳ **Set up staging environment** for testing
+
+---
+
+## Continuous Development
+
+### Branching Strategy
+
+```bash
+main         # Production-ready code
+├── develop  # Integration branch
+├── feature/miner-flows-api
+├── feature/social-metrics
+└── feature/real-time-updates
+```
+
+### Commit Message Format
+
+```
+feat: Add real-time miner flows data integration
+fix: Correct holding period calculation
+docs: Update API requirements for social metrics
+refactor: Optimize chart rendering performance
+```
+
+---
+
+## Questions?
+
+Check the main README.md for:
+- Installation instructions
+- Development workflow
+- Feature documentation
+- Roadmap

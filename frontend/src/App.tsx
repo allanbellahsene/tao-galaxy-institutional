@@ -10,7 +10,7 @@ function App() {
         {/* Simple navigation */}
         <nav className="bg-slate-900 border-b border-white/10 p-4">
           <div className="max-w-7xl mx-auto flex gap-6 items-center">
-            <h1 className="text-white font-bold text-xl">Miner Flows & Datasets</h1>
+            <h1 className="text-white font-bold text-xl">TAO Galaxy Institutional</h1>
             <Link to="/" className="text-slate-300 hover:text-white">
               Miner Flows
             </Link>

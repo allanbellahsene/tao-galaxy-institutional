@@ -1,7 +1,7 @@
 {
-  "name": "miner-flows-datasets",
+  "name": "tao-galaxy-institutional",
   "version": "1.0.0",
-  "description": "Miner Flows and Datasets UI - Standalone Demo",
+  "description": "TAO Galaxy Institutional - Professional analytics platform for institutional investors",
   "type": "module",
   "scripts": {
     "dev": "vite",
