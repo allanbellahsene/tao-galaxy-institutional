@@ -1,0 +1,839 @@
+[
+  {
+    "id": "SN1",
+    "name": "Prompting / Apex",
+    "category": "Generative AI",
+    "netuid": 1,
+    "price": 0.0643287614773411,
+    "emissions": 2.87,
+    "marketCap": 18934018.901712622
+  },
+  {
+    "id": "SN2",
+    "name": "Omron",
+    "category": "Generative AI",
+    "netuid": 2,
+    "price": 0.0076617832466447,
+    "emissions": 0.37,
+    "marketCap": 2383328.687755029
+  },
+  {
+    "id": "SN3",
+    "name": "Templar",
+    "category": "Decentralized Training",
+    "netuid": 3,
+    "price": 0.1050485291025831,
+    "emissions": 5.04,
+    "marketCap": 32452530.157036897
+  },
+  {
+    "id": "SN4",
+    "name": "Targon",
+    "category": "Generative AI",
+    "netuid": 4,
+    "price": 0.1506562324013061,
+    "emissions": 7.62,
+    "marketCap": 46488835.78555094
+  },
+  {
+    "id": "SN5",
+    "name": "OpenKaito",
+    "category": "Model development",
+    "netuid": 5,
+    "price": 0.0289403236706428,
+    "emissions": 1.46,
+    "marketCap": 9013257.572554562
+  },
+  {
+    "id": "SN6",
+    "name": "Infinite Games",
+    "category": "Predictive systems",
+    "netuid": 6,
+    "price": 0.0122466009920579,
+    "emissions": 0.59,
+    "marketCap": 3607312.308218298
+  },
+  {
+    "id": "SN7",
+    "name": "SubVortex",
+    "category": "Infrastructure",
+    "netuid": 7,
+    "price": 0.0027888722808302,
+    "emissions": 0.14,
+    "marketCap": 854598.4871955606
+  },
+  {
+    "id": "SN8",
+    "name": "Proprietary trading network (PTN)",
+    "category": "DeFi",
+    "netuid": 8,
+    "price": 0.1513219360903928,
+    "emissions": 7.55,
+    "marketCap": 46372912.04838726
+  },
+  {
+    "id": "SN9",
+    "name": "Pre-Training",
+    "category": "Decentralized Training",
+    "netuid": 9,
+    "price": 0.0290990225751349,
+    "emissions": 1.47,
+    "marketCap": 9042377.835859831
+  },
+  {
+    "id": "SN10",
+    "name": "Sturdy",
+    "category": "DeFi",
+    "netuid": 10,
+    "price": 0.0145676873987235,
+    "emissions": 0.72,
+    "marketCap": 4479655.375358238
+  },
+  {
+    "id": "SN11",
+    "name": "Dippy Roleplay",
+    "category": "Model development",
+    "netuid": 11,
+    "price": 0.0082609079477701,
+    "emissions": 0.41,
+    "marketCap": 2581292.6140163755
+  },
+  {
+    "id": "SN12",
+    "name": "Horde",
+    "category": "Compute, Infrastructure",
+    "netuid": 12,
+    "price": 0.0143486333402494,
+    "emissions": 0.5,
+    "marketCap": 4483080.099197868
+  },
+  {
+    "id": "SN13",
+    "name": "Data Universe",
+    "category": "Data Pipeline, Storage",
+    "netuid": 13,
+    "price": 0.0505471129460115,
+    "emissions": 2.55,
+    "marketCap": 15637486.023416556
+  },
+  {
+    "id": "SN14",
+    "name": "TAOHash",
+    "category": "Other",
+    "netuid": 14,
+    "price": 0.0310123734870481,
+    "emissions": 1.37,
+    "marketCap": 9503873.346113926
+  },
+  {
+    "id": "SN15",
+    "name": "De_Val",
+    "category": "AI powered tool",
+    "netuid": 15,
+    "price": 0.0044164050139867,
+    "emissions": 0.21,
+    "marketCap": 1380006.3356789248
+  },
+  {
+    "id": "SN16",
+    "name": "BitAds",
+    "category": "AI powered tool",
+    "netuid": 16,
+    "price": 0.0038755493696573,
+    "emissions": 0.19,
+    "marketCap": 1203954.5569553962
+  },
+  {
+    "id": "SN17",
+    "name": "Three Gen",
+    "category": "Generative AI",
+    "netuid": 17,
+    "price": 0.0381811666725429,
+    "emissions": 1.94,
+    "marketCap": 11766334.00513648
+  },
+  {
+    "id": "SN18",
+    "name": "Zeus",
+    "category": "Predictive systems",
+    "netuid": 18,
+    "price": 0.0107087257939444,
+    "emissions": 0.48,
+    "marketCap": 3017209.1899728808
+  },
+  {
+    "id": "SN19",
+    "name": "Nineteen",
+    "category": "Generative AI",
+    "netuid": 19,
+    "price": 0.0834399860691277,
+    "emissions": 4.26,
+    "marketCap": 25124527.898527075
+  },
+  {
+    "id": "SN20",
+    "name": "BitAgent",
+    "category": "AI Agent",
+    "netuid": 20,
+    "price": 0.0113713306268103,
+    "emissions": 0.57,
+    "marketCap": 3303700.968219513
+  },
+  {
+    "id": "SN21",
+    "name": "Omega Any-to-Any",
+    "category": "Model development",
+    "netuid": 21,
+    "price": 0.0042435370745423,
+    "emissions": 0.22,
+    "marketCap": 1296523.0762875122
+  },
+  {
+    "id": "SN22",
+    "name": "Desearch",
+    "category": "AI powered tool",
+    "netuid": 22,
+    "price": 0.0095700267906075,
+    "emissions": 0.4,
+    "marketCap": 2949326.126574668
+  },
+  {
+    "id": "SN23",
+    "name": "Nuance",
+    "category": "AI powered tool",
+    "netuid": 23,
+    "price": 0.0041153221989757,
+    "emissions": 0.21,
+    "marketCap": 1234596.9398045088
+  },
+  {
+    "id": "SN24",
+    "name": "Omega Labs",
+    "category": "Data Pipeline",
+    "netuid": 24,
+    "price": 0.003537608129094,
+    "emissions": 0.19,
+    "marketCap": 1101927.9344497838
+  },
+  {
+    "id": "SN25",
+    "name": "Protein Folding",
+    "category": "DeSci",
+    "netuid": 25,
+    "price": 0.0195282381161215,
+    "emissions": 1.05,
+    "marketCap": 6052044.445957636
+  },
+  {
+    "id": "SN26",
+    "name": "Storb",
+    "category": "Storage",
+    "netuid": 26,
+    "price": 0.0038361239130397,
+    "emissions": 0.21,
+    "marketCap": 1172075.2114136063
+  },
+  {
+    "id": "SN27",
+    "name": "NI Compute",
+    "category": "Compute",
+    "netuid": 27,
+    "price": 0.0033187824260513,
+    "emissions": 0.16,
+    "marketCap": 1036142.9954426104
+  },
+  {
+    "id": "SN29",
+    "name": "Coldint",
+    "category": "Decentralized Training",
+    "netuid": 29,
+    "price": 0.0028903778828531,
+    "emissions": 0.15,
+    "marketCap": 921011.3221521446
+  },
+  {
+    "id": "SN30",
+    "name": "Bettensor",
+    "category": "Predictive systems",
+    "netuid": 30,
+    "price": 0.0060460214453494,
+    "emissions": 0.31,
+    "marketCap": 1910214.4194140115
+  },
+  {
+    "id": "SN31",
+    "name": "NullUntilBoot",
+    "category": "Other",
+    "netuid": 31,
+    "price": 0.0022067793613159,
+    "emissions": 0.11,
+    "marketCap": 687609.0292607376
+  },
+  {
+    "id": "SN32",
+    "name": "It’s AI",
+    "category": "Deepfake detection",
+    "netuid": 32,
+    "price": 0.0047809843350917,
+    "emissions": 0.24,
+    "marketCap": 1469181.2322360233
+  },
+  {
+    "id": "SN33",
+    "name": "ReadyAI",
+    "category": "Data Pipeline",
+    "netuid": 33,
+    "price": 0.0167237490607123,
+    "emissions": 0.85,
+    "marketCap": 5207507.50032331
+  },
+  {
+    "id": "SN34",
+    "name": "BitMind",
+    "category": "Deepfake detection",
+    "netuid": 34,
+    "price": 0.0451833302584209,
+    "emissions": 2.3,
+    "marketCap": 13377607.45493158
+  },
+  {
+    "id": "SN35",
+    "name": "LogicNet",
+    "category": "Model development",
+    "netuid": 35,
+    "price": 0.0013529943049668,
+    "emissions": 0.07,
+    "marketCap": 423864.96034524566
+  },
+  {
+    "id": "SN36",
+    "name": "Web Agents",
+    "category": "AI Agent",
+    "netuid": 36,
+    "price": 0.0032605518777954,
+    "emissions": 0.12,
+    "marketCap": 956212.3735277514
+  },
+  {
+    "id": "SN37",
+    "name": "Fine-tuning",
+    "category": "Decentralized Training, Model development",
+    "netuid": 37,
+    "price": 0.0067119653339655,
+    "emissions": 0.34,
+    "marketCap": 2073463.5729048853
+  },
+  {
+    "id": "SN38",
+    "name": "Distributed training",
+    "category": "Decentralized Training",
+    "netuid": 38,
+    "price": 0.0076063088927791,
+    "emissions": 0.32,
+    "marketCap": 2367701.3513211785
+  },
+  {
+    "id": "SN39",
+    "name": "EdgeMaxxing",
+    "category": "Model development",
+    "netuid": 39,
+    "price": 0.0017377272920073,
+    "emissions": 0.08,
+    "marketCap": 535585.5533689526
+  },
+  {
+    "id": "SN40",
+    "name": "Chunking",
+    "category": "Data Pipeline",
+    "netuid": 40,
+    "price": 0.0033364009749081,
+    "emissions": 0.17,
+    "marketCap": 1036592.2979173656
+  },
+  {
+    "id": "SN41",
+    "name": "SportsTensor",
+    "category": "Model development, Predictive systems",
+    "netuid": 41,
+    "price": 0.013156189555177,
+    "emissions": 0.62,
+    "marketCap": 4053801.6832123087
+  },
+  {
+    "id": "SN42",
+    "name": "Masa",
+    "category": "Data Pipeline",
+    "netuid": 42,
+    "price": 0.0146412776644912,
+    "emissions": 0.73,
+    "marketCap": 4384729.508317838
+  },
+  {
+    "id": "SN44",
+    "name": "Score Vision",
+    "category": "Predictive systems",
+    "netuid": 44,
+    "price": 0.0329666041682055,
+    "emissions": 1.78,
+    "marketCap": 10055409.560637912
+  },
+  {
+    "id": "SN45",
+    "name": "Gen42",
+    "category": "AI powered tool",
+    "netuid": 45,
+    "price": 0.0105079687702801,
+    "emissions": 0.54,
+    "marketCap": 3229883.14491394
+  },
+  {
+    "id": "SN46",
+    "name": "NeuralAI",
+    "category": "Generative AI",
+    "netuid": 46,
+    "price": 0.0030399521726356,
+    "emissions": 0.15,
+    "marketCap": 940950.3883542604
+  },
+  {
+    "id": "SN47",
+    "name": "Condenses AI",
+    "category": "Model development",
+    "netuid": 47,
+    "price": 0.0015778131341221,
+    "emissions": 0.08,
+    "marketCap": 480864.0476173372
+  },
+  {
+    "id": "SN48",
+    "name": "NextPlace AI",
+    "category": "Predictive systems",
+    "netuid": 48,
+    "price": 0.0061775817226138,
+    "emissions": 0.31,
+    "marketCap": 1863324.542130374
+  },
+  {
+    "id": "SN49",
+    "name": "Polaris",
+    "category": "Compute",
+    "netuid": 49,
+    "price": 0.0019992780813355,
+    "emissions": 0.1,
+    "marketCap": 627003.8529511576
+  },
+  {
+    "id": "SN50",
+    "name": "Synth",
+    "category": "Data Pipeline, Predictive systems",
+    "netuid": 50,
+    "price": 0.0044460537852762,
+    "emissions": 0.21,
+    "marketCap": 1376149.000373668
+  },
+  {
+    "id": "SN51",
+    "name": "Celium",
+    "category": "Compute",
+    "netuid": 51,
+    "price": 0.1173675048891287,
+    "emissions": 5.62,
+    "marketCap": 36655499.24134848
+  },
+  {
+    "id": "SN52",
+    "name": "Dojo",
+    "category": "Data Pipeline",
+    "netuid": 52,
+    "price": 0.0366340656398732,
+    "emissions": 1.89,
+    "marketCap": 10875276.78267782
+  },
+  {
+    "id": "SN53",
+    "name": "EfficientFrontier",
+    "category": "DeFi",
+    "netuid": 53,
+    "price": 0.0170171089079855,
+    "emissions": 0.86,
+    "marketCap": 5338249.28537818
+  },
+  {
+    "id": "SN54",
+    "name": "WebGenieAI",
+    "category": "AI powered tool",
+    "netuid": 54,
+    "price": 0.0012562715640709,
+    "emissions": 0.06,
+    "marketCap": 390651.5614230257
+  },
+  {
+    "id": "SN55",
+    "name": "Precog",
+    "category": "Predictive systems",
+    "netuid": 55,
+    "price": 0.006257042813259,
+    "emissions": 0.32,
+    "marketCap": 1788208.746329648
+  },
+  {
+    "id": "SN56",
+    "name": "Gradients",
+    "category": "Model development",
+    "netuid": 56,
+    "price": 0.157550369298291,
+    "emissions": 7.92,
+    "marketCap": 48310289.39994553
+  },
+  {
+    "id": "SN57",
+    "name": "Gaia",
+    "category": "Predictive systems",
+    "netuid": 57,
+    "price": 0.0062596403310643,
+    "emissions": 0.33,
+    "marketCap": 1930472.114639128
+  },
+  {
+    "id": "SN58",
+    "name": "Dippy Speech",
+    "category": "Model development",
+    "netuid": 58,
+    "price": 0.0025019936645458,
+    "emissions": 0.13,
+    "marketCap": 782691.1816779051
+  },
+  {
+    "id": "SN59",
+    "name": "Agent Arena",
+    "category": "AI Agent",
+    "netuid": 59,
+    "price": 0.0026995885085603,
+    "emissions": 0.14,
+    "marketCap": 826514.4728808877
+  },
+  {
+    "id": "SN60",
+    "name": "Bitsec",
+    "category": "AI powered tool",
+    "netuid": 60,
+    "price": 0.0049323701942942,
+    "emissions": 0.25,
+    "marketCap": 1482035.4624804894
+  },
+  {
+    "id": "SN61",
+    "name": "RedTeam",
+    "category": "AI powered tool",
+    "netuid": 61,
+    "price": 0.0055376882908268,
+    "emissions": 0.25,
+    "marketCap": 1680943.6785547934
+  },
+  {
+    "id": "SN62",
+    "name": "AgenTao",
+    "category": "AI Agent",
+    "netuid": 62,
+    "price": 0.0012544120691229,
+    "emissions": 0.06,
+    "marketCap": 389015.4011285855
+  },
+  {
+    "id": "SN63",
+    "name": "Alpha Trade Exchange",
+    "category": "DeFi, Infrastructure",
+    "netuid": 63,
+    "price": 0.0021409705440399,
+    "emissions": 0.11,
+    "marketCap": 662534.0197989513
+  },
+  {
+    "id": "SN64",
+    "name": "Chutes",
+    "category": "Compute, Generative AI",
+    "netuid": 64,
+    "price": 0.326178507930331,
+    "emissions": 16.33,
+    "marketCap": 101375496.9861755
+  },
+  {
+    "id": "SN65",
+    "name": "Tao Private Network (TPN)",
+    "category": "Infrastructure",
+    "netuid": 65,
+    "price": 0.0056400029739086,
+    "emissions": 0.28,
+    "marketCap": 1511716.3728279597
+  },
+  {
+    "id": "SN66",
+    "name": "FakeNews",
+    "category": "Deepfake detection",
+    "netuid": 66,
+    "price": 0.0016724880566006,
+    "emissions": 0.08,
+    "marketCap": 455473.6219301832
+  },
+  {
+    "id": "SN67",
+    "name": "Unknown",
+    "category": "Other",
+    "netuid": 67,
+    "price": 0.0010039592771122,
+    "emissions": 0.0,
+    "marketCap": 282617.98265728366
+  },
+  {
+    "id": "SN68",
+    "name": "Nova",
+    "category": "DeSci",
+    "netuid": 68,
+    "price": 0.0707447167257514,
+    "emissions": 3.37,
+    "marketCap": 18855560.84963873
+  },
+  {
+    "id": "SN69",
+    "name": "Unknown",
+    "category": "Other",
+    "netuid": 69,
+    "price": 0.0012272251759902,
+    "emissions": 0.06,
+    "marketCap": 334352.8651576677
+  },
+  {
+    "id": "SN70",
+    "name": "Vericore",
+    "category": "AI powered tool",
+    "netuid": 70,
+    "price": 0.0025584231593882,
+    "emissions": 0.12,
+    "marketCap": 640664.5531328428
+  },
+  {
+    "id": "SN71",
+    "name": "Unknown",
+    "category": "Other",
+    "netuid": 71,
+    "price": 0.0011360816507928,
+    "emissions": 0.0,
+    "marketCap": 274024.9556134023
+  },
+  {
+    "id": "SN72",
+    "name": "Unknown",
+    "category": "Other",
+    "netuid": 72,
+    "price": 0.0055799336633244,
+    "emissions": 0.28,
+    "marketCap": 1248425.3652605612
+  },
+  {
+    "id": "SN73",
+    "name": "Deeznuts",
+    "category": "Other",
+    "netuid": 73,
+    "price": 0.0025136874935546,
+    "emissions": 0.11,
+    "marketCap": 429545.43295225897
+  },
+  {
+    "id": "SN74",
+    "name": "Unknown",
+    "category": "Other",
+    "netuid": 74,
+    "price": 0.0012395610410399,
+    "emissions": 0.06,
+    "marketCap": 242247.25107432224
+  },
+  {
+    "id": "SN75",
+    "name": "Hippius",
+    "category": "Storage",
+    "netuid": 75,
+    "price": 0.0454010773746722,
+    "emissions": 2.43,
+    "marketCap": 8172808.493161077
+  },
+  {
+    "id": "SN76",
+    "name": "Safescan",
+    "category": "DeSci",
+    "netuid": 76,
+    "price": 0.0066472697218609,
+    "emissions": 0.36,
+    "marketCap": 1233572.6199442812
+  },
+  {
+    "id": "SN77",
+    "name": "Unknown",
+    "category": "Other",
+    "netuid": 77,
+    "price": 0.0055838750167854,
+    "emissions": 0.3,
+    "marketCap": 937388.3226202969
+  },
+  {
+    "id": "SN78",
+    "name": "Unknown",
+    "category": "Other",
+    "netuid": 78,
+    "price": 0.0010979956020308,
+    "emissions": 0.05,
+    "marketCap": 185547.4785729624
+  },
+  {
+    "id": "SN79",
+    "name": "Taos",
+    "category": "Other",
+    "netuid": 79,
+    "price": 0.0061123295132837,
+    "emissions": 0.29,
+    "marketCap": 874215.5168994619
+  },
+  {
+    "id": "SN80",
+    "name": "AI Factory",
+    "category": "Model development",
+    "netuid": 80,
+    "price": 0.006069651148988,
+    "emissions": 0.26,
+    "marketCap": 809174.6550543001
+  },
+  {
+    "id": "SN81",
+    "name": "Patrol",
+    "category": "Infrastructure, Security",
+    "netuid": 81,
+    "price": 0.0417367421392459,
+    "emissions": 2.03,
+    "marketCap": 4818845.379126591
+  },
+  {
+    "id": "SN82",
+    "name": "Unknown",
+    "category": "Other",
+    "netuid": 82,
+    "price": 0.0011737599249184,
+    "emissions": 0.06,
+    "marketCap": 141991.98668480074
+  },
+  {
+    "id": "SN83",
+    "name": "Unknown",
+    "category": "Other",
+    "netuid": 83,
+    "price": 8.551709833787244,
+    "emissions": 0.0,
+    "marketCap": 3138.477508999919
+  },
+  {
+    "id": "SN84",
+    "name": "Document Understanding",
+    "category": "AI powered tool",
+    "netuid": 84,
+    "price": 0.0070794345928804,
+    "emissions": 0.38,
+    "marketCap": 274685.22896415734
+  },
+  {
+    "id": "SN85",
+    "name": "Vidaio",
+    "category": "AI powered tool",
+    "netuid": 85,
+    "price": 0.0500796196736953,
+    "emissions": 1.51,
+    "marketCap": 1152380.133223612
+  },
+  {
+    "id": "SN86",
+    "name": "Unknown",
+    "category": "Other",
+    "netuid": 86,
+    "price": 1600.565098724504,
+    "emissions": 0.0,
+    "marketCap": 78922.5997281795
+  },
+  {
+    "id": "SN87",
+    "name": "CheckerChain",
+    "category": "AI powered tool, Predictive systems",
+    "netuid": 87,
+    "price": 0.0017735396166111,
+    "emissions": 0.09,
+    "marketCap": 37654.937230124095
+  },
+  {
+    "id": "SN88",
+    "name": "Staking",
+    "category": "AI powered tool",
+    "netuid": 88,
+    "price": 0.0034537098722553,
+    "emissions": 0.17,
+    "marketCap": 126637.89430402624
+  },
+  {
+    "id": "SN89",
+    "name": "Unknown",
+    "category": "Other",
+    "netuid": 89,
+    "price": 102.96276504501124,
+    "emissions": 0.0,
+    "marketCap": 29039.108978351687
+  },
+  {
+    "id": "SN90",
+    "name": "Unknown",
+    "category": "Other",
+    "netuid": 90,
+    "price": 518.5509850505983,
+    "emissions": 0.0,
+    "marketCap": 111782.74837704512
+  },
+  {
+    "id": "SN91",
+    "name": "Tensorprox",
+    "category": "Infrastructure, Security",
+    "netuid": 91,
+    "price": 0.0039404362791,
+    "emissions": 0.18,
+    "marketCap": 56882.475718451686
+  },
+  {
+    "id": "SN92",
+    "name": "Unknown",
+    "category": "Other",
+    "netuid": 92,
+    "price": 0.0040393806657925,
+    "emissions": 0.0,
+    "marketCap": 33274.09629565762
+  },
+  {
+    "id": "SN93",
+    "name": "Bitcast",
+    "category": "AI powered tool",
+    "netuid": 93,
+    "price": 41.387477432322335,
+    "emissions": 0.0,
+    "marketCap": 15189.204217662296
+  },
+  {
+    "id": "SN94",
+    "name": "Eastworld",
+    "category": "AI Agent",
+    "netuid": 94,
+    "price": 78.44702151804171,
+    "emissions": 0.0,
+    "marketCap": 23843.46802246251
+  },
+  {
+    "id": "SN95",
+    "name": "Unknown",
+    "category": "Other",
+    "netuid": 95,
+    "price": 14.52280030379991,
+    "emissions": 0.0,
+    "marketCap": 5329.867711494567
+  }
+]
